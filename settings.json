@@ -1,0 +1,7 @@
+{
+    "files.watcherExclude": {
+        "**/node_mpdules/**": true,
+        "**/pagefile.sys": true,
+        "**/target": true
+    }
+}
